@@ -2,7 +2,7 @@
 
 I am glad to help!
 
-A little about me: I finished my Ph.D training in Bioinformatics 2018. After that, I am a Bioinformatics Post-doc scientist at Stanford Research Institutue. I have extensive expertise designing novel algorithms to analyze and intergrate multi-omics Next Generation Sequencing (NGS) data, including exome, whole-genome, methylation, RNA-seq, proteomics. My computational contributions has been acknowledge as co-author and first lead author on top scientific journals, like Nature. You can find my full publication list at [Google Scholar] (https://scholar.google.com/citations?hl=en&user=7sbQFPIAAAAJ).
+A little about me: I finished my Ph.D training in Bioinformatics 2018. After that, I am a Bioinformatics Post-doc scientist at Stanford Research Institutue. I have extensive expertise designing novel algorithms to analyze and intergrate multi-omics Next Generation Sequencing (NGS) data, including exome, whole-genome, methylation, RNA-seq, proteomics. My computational contributions has been acknowledge as co-author and first lead author on top scientific journals, like Nature. You can find my full publication list at [Google Scholar](https://scholar.google.com/citations?hl=en&user=7sbQFPIAAAAJ).
 
 ### Markdown
 
