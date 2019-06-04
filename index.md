@@ -18,9 +18,13 @@ I finished my Ph.D training in Bioinformatics 2018. After that, I am a Bioinform
 ### Skillset:
 
 •	Apply R packages to build statistical and analytic frameworks on big data produced from Next-generation Sequencing (NGS) technology
+
 •	Parallel computing on thousands of CPUs & storage management of terabytes of data on High Performance Computing (HPC) cluster 
+
 •	Proficient programming languages, i.e., Python, R, SQL, Perl, under Linux environment
+
 •	Build bioinformatics tools deployed by Docker on local server and on Amazon Web Service (AWS) cloud platform
+
 •	Deploy machine learning algorithm to integrate multiple omic data from patients
 
 
